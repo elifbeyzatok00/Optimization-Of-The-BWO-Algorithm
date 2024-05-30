@@ -1,0 +1,21 @@
+% =========================================================================
+%     Starling murmuration optimizer: A novel bio-inspired algorithm
+%                   for global and engineering optimization
+%        Computer Methods in Applied Mechanics and Engineering
+%                    Volume 392, 15 March 2022, 114616
+%   https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330?via%3Dihub 
+%    ---------------------------------------------------------------------
+%  Authors: HodaZamani, Mohammad H.Nadimi-Shahraki*, Amir H.Gandomi
+%  *Corresponding author: Faculty of Computer Engineering, Najafabad 
+%                Branch, Islamic Azad University, Najafabad, Iran.
+%  e-Mails: nadimi@ieee.org, zamanie_hoda@ymail.com, 
+%           nadimi.mh@gmail.com, a.h.gandomi@gmail.com
+% =========================================================================
+
+
+Please add the CEC 2017 test function or other benchmark functions before running the start function.
+ 
+Citation Guide:
+Zamani, Hoda, Mohammad H. Nadimi-Shahraki, and Amir H. Gandomi. "Starling murmuration optimizer: 
+A novel bio-inspired algorithm for global and engineering optimization." Computer Methods in Applied Mechanics 
+and Engineering 392 (2022): 114616.
